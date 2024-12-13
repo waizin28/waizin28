@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🌟 Welcome to My GitHub Profile!
 
-<!--
-**waizin28/waizin28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm passionate about coding and love working with various frameworks and tools to create impactful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Skills
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,c,mysql)](https://skillicons.dev)
+
+### 🛠️ Frameworks
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react,flask)](https://skillicons.dev)
+
+### 🌐 Platforms
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 📌 Projects and Contributions
+
+Check out my repositories and feel free to contribute or leave feedback!
+
+🌟 Let's build something amazing together!
