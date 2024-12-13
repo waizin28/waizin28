@@ -19,7 +19,7 @@ Hi there! 👋 I'm passionate about coding and love working with various framewo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waizin28&show_icons=true&theme=radical)  
+//![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waizin28&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waizin28&layout=compact&theme=radical)
 
 ---
