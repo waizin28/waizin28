@@ -7,10 +7,10 @@ Hi there! 👋 I'm passionate about coding and love working with various framewo
 ## ⚡ Tech Skills
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,c,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,c,cpp,cs,php,mysql)](https://skillicons.dev)
 
 ### 🛠️ Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,flask,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flask,spring,nextjs,angular,django,fastapi,dotnet)](https://skillicons.dev)
 
 ### 🌐 Platforms
 [![My Skills](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
@@ -19,7 +19,7 @@ Hi there! 👋 I'm passionate about coding and love working with various framewo
 
 ## 📊 GitHub Stats
 
-//![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waizin28&show_icons=true&theme=radical)  
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waizin28&show_icons=true&theme=radical) -->  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waizin28&layout=compact&theme=radical)
 
 ---
