@@ -12,10 +12,10 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,flask,spring,angular,django,fastapi,dotnet)](https://skillicons.dev)
 
 ** Databases:**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,aws,oracle,azure)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,aws,azure)](https://skillicons.dev)  
 
 ## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wai-zin-linn-254210221))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wai-zin-linn-254210221) 
 <!-- ![![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://your-portfolio.com) -->  
 
 ---
