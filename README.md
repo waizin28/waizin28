@@ -1,6 +1,5 @@
-# 🌟 Welcome to My GitHub Profile!
-
-Hi there! 👋 I'm passionate about coding and love working with various frameworks and tools to create impactful projects.
+# 🌟 Hello, I'm Wai Zin! 👋  
+🚀 Software Engineer | 💻 Full-Stack Developer | 🎨 Passionate about building impactful projects
 
 ---
 
