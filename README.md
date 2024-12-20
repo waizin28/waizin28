@@ -1,5 +1,5 @@
 # 🌟 Hello, I'm Wai Zin! 👋  
-🚀 Software Engineer | 💻 Full-Stack & Mobile Developer
+🚀 Software Engineer | 💻 Full-Stack & Mobile Developer<br>
 🎓 Graduate from UW-Madison with Computer Science & Data Science Degrees
 
 ---
