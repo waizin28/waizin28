@@ -7,12 +7,12 @@
 
 ## ⚡ Tech Skills
 
-### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,c,cpp,cs,php,mysql)](https://skillicons.dev)
+### Programming Languages  
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,c,cpp,cs,php,mysql,swift)](https://skillicons.dev)  
 
-### 🛠️ Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flask,spring,angular,django,fastapi,dotnet)](https://skillicons.dev)
-  
+### 🛠️ Frameworks  
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flask,spring,angular,django,fastapi,dotnet,swiftui)](https://skillicons.dev)  
+
 ## 🗄️ Databases  
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,aws,azure)](https://skillicons.dev)  
 
